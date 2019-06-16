@@ -6,9 +6,10 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I received Ph.D from the Department of Computer Science at Binghamton University. I worked in Security and Verification Research (SVR) Lab and Operating Systems and Networks Lab (OSNET), under Prof. Ping Yang and Prof. Kartik Gopalan . 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I obtained my B.Sc.(Hons) in University of Colombo School of Computing of Sri Lanka with First class honors, in 2014.
+
 
 ## Research Interest
 
