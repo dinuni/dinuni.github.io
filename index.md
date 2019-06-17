@@ -27,27 +27,30 @@ Fernando, D; Kodikara, N; Keppetiyagama, C,"Mathematical Model for Radar in 3D V
 Weerawarne, L.; Sayakkara, A.; Fernando, D.; Suduwella, C.; De Zoysa, K., "TikiriPower - Using TikiriDB abstraction on Smart Home systems," International Conference on Advances in ICT for Emerging Regions, (ICTer), 2012.
 
 Udalagama, S.; Sahabandu, L.; Samarkoon, L.; Fernando, D.; Chanthirasegaran, P.; Udana, S.;Asanga, D.; Fernando, C.; Keppetiyagama, C.; Ranasinghe, C., "A sustainable mechanism for gathering road traffic data using smart-phones," Advances in ICT for Emerging Regions (ICTer), 2012
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Awards/Honors
+NSF-supported travel Grant Recipient for IEEE INFOCOM 2019
+NSF-supported travel Grant Recipient for CLUSTER 2016
+Most Outstanding Graduate of the year 2014 (UCSC)- Prof. V.K Samaranayake Memorial Gold medal
 
-Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Press Release
+NSF $1 million grant for my latest project with Prof. Yang
 
-Here is a horizontal rule
+## Experiences
+Graduate Research Assistant (Fall 2014, Spring 2015 ,Summer 2015, Fall 2015,Summer 2016,Summer 2017,Fall 2017 )
+Graduate Teaching Assistant (Spring 2016, Fall 2016, Spring 2017 )
+Professional Activities
+Externel Reviewer in SSCC-2016, CCGrid-2017, ICDCS-2017
+The President of (Graduate Student Organization of Computer Science) GSOCS (2017-2018)
+The Vice President of (Graduate Student Organization of Computer Science) GSOCS (2016-2017)
+The senator of (Graduate Student Associated of Computer Science) GSOCS for GSO Binghamton university (2016-2017)
+The Chairperson of IEEE student branch of UCSC (2013-2014)
+The Coordinator of IEEE student branch of UCSC (2011-2013)
+
+
 
 ---
 
-Here is a blockquote
 
-> To a great mind, nothing is little
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
