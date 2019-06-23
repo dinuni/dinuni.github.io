@@ -6,6 +6,7 @@ I received Ph.D from the Department of Computer Science at Binghamton University
 
 I obtained my B.Sc.(Hons) in University of Colombo School of Computing of Sri Lanka with First class honors, in 2014.
 
+* Email: [dferna15@binghamton.edu](mailto:dferna15@binghamton.edu)
 
 ## Research Interest
 
@@ -42,25 +43,6 @@ Virtualization, Software-defined networking, Security
 
 ## Press Release
 [NSF $1 million grant](https://www.bupipedream.com/news/86026/computer-science-professors-awarded-1-million-from-national-science-foundation-funding/) for my latest project with Prof. Yang.
-
-## Experiences
-+ Graduate Research Assistant (Fall 2014, Spring 2015 ,Summer 2015, Fall 2015,Summer 2016,Summer 2017 - Summer 2019 )
-
-+ Graduate Teaching Assistant (Spring 2016, Fall 2016, Spring 2017 )
-
-+ Professional Activities
-
-+ Externel Reviewer in SSCC-2016, CCGrid-2017, ICDCS-2017
-
-+ The President of (Graduate Student Organization of Computer Science) GSOCS (2017-2018)
-
-+ The Vice President of (Graduate Student Organization of Computer Science) GSOCS (2016-2017)
-
-+ The senator of (Graduate Student Associated of Computer Science) GSOCS for GSO Binghamton university (2016-2017)
-
-+ The Chairperson of IEEE student branch of UCSC (2013-2014)
-
-+ The Coordinator of IEEE student branch of UCSC (2011-2013)
 
 
 ---
