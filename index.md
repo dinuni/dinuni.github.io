@@ -6,7 +6,7 @@ I received Ph.D from the Department of Computer Science at Binghamton University
 
 I obtained my B.Sc.(Hons) in University of Colombo School of Computing of Sri Lanka with First class honors, in 2014.
 
-* Email: [dferna15@binghamton.edu](mailto:dferna15@binghamton.edu)
+Email: [dferna15@binghamton.edu](mailto:dferna15@binghamton.edu)
 
 ## Research Interest
 
