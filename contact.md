@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [dferna15@binghamton.edu](mailto:dferna15@binghamton.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
 ## Mailing Address
 
-> 
+> 58, Park Ave, APT 3B 
 >
-> London
+> Binghamton, New York, 13903
 >
-> United Kingdom
+> United States of America.
 
 ---
 
-## Social
+[//]:## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+[//]:1. [Facebook](#)
+[//]:2. [Twitter](#)
+[//]:3. [Google+](#)
