@@ -2,7 +2,7 @@
 
 <img class="profile-picture" src="dinuni_new.JPG">
 
-I received Ph.D from the Department of Computer Science at Binghamton University. I worked at Security and Verification Research (SVR) Lab and Operating Systems and Networks Lab (OSNET), under Prof. Ping Yang and Prof. Kartik Gopalan . 
+I received Ph.D from the Department of Computer Science at Binghamton University. I worked at [Security and Verification Research (SVR) Lab](http://www.cs.binghamton.edu/~pyang/seclab.html) and [Operating Systems and Networks Lab (OSNET)](https://kartikgopalan.github.io/people/index.html), under [Prof. Ping Yang](http://www.cs.binghamton.edu/~pyang/) and [Prof. Kartik Gopalan](https://kartikgopalan.github.io/). 
 
 I obtained my B.Sc.(Hons) in University of Colombo School of Computing of Sri Lanka with First class honors, in 2014.
 
@@ -10,7 +10,9 @@ I obtained my B.Sc.(Hons) in University of Colombo School of Computing of Sri La
 ## Research Interest
 
 Virtualization, Software-defined networking, Security
-## Publications
+
+
+## Recent Publications
 
 + Dinuni K Fernando, Jonathan Terner, Kartik Gopalan, Ping Yang," Live Migration Ate My VM: Recovering a Virtual Machine after Failure of Post-Copy Live Migration",in Proceedings of IEEE International Conference on Computer Communications (IEEE INFOCOM 2019), Paris, France, April 2019. (Acceptance rate: 288/1464 = 19.7%)
 
@@ -37,10 +39,10 @@ Virtualization, Software-defined networking, Security
 
 
 ## Press Release
-NSF $1 million grant for my latest project with Prof. Yang
+NSF $1 million grant for my latest project with Prof. Yang.
 
 ## Experiences
-+ Graduate Research Assistant (Fall 2014, Spring 2015 ,Summer 2015, Fall 2015,Summer 2016,Summer 2017,Fall 2017 )
++ Graduate Research Assistant (Fall 2014, Spring 2015 ,Summer 2015, Fall 2015,Summer 2016,Summer 2017 - Summer 2019 )
 
 + Graduate Teaching Assistant (Spring 2016, Fall 2016, Spring 2017 )
 
