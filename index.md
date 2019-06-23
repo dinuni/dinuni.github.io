@@ -56,7 +56,7 @@ NSF $1 million grant for my latest project with Prof. Yang
 
 + The Chairperson of IEEE student branch of UCSC (2013-2014)
 
-+ The Coordinator of IEEE student branch of UCSC (2011-2013)
++ The Coordinator of IEEE student branch of UCSC (2011-2013) test
 
 
 
