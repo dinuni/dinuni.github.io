@@ -1,6 +1,6 @@
 ## Dinuni Fernando
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="dinuni_new.jpg">
 
 I received Ph.D from the Department of Computer Science at Binghamton University. I worked at Security and Verification Research (SVR) Lab and Operating Systems and Networks Lab (OSNET), under Prof. Ping Yang and Prof. Kartik Gopalan . 
 
