@@ -39,7 +39,7 @@ Virtualization, Software-defined networking, Security
 
 
 ## Press Release
-NSF $1 million grant for my latest project with Prof. Yang.
+[NSF $1 million grant](https://www.bupipedream.com/news/86026/computer-science-professors-awarded-1-million-from-national-science-foundation-funding/) for my latest project with Prof. Yang.
 
 ## Experiences
 + Graduate Research Assistant (Fall 2014, Spring 2015 ,Summer 2015, Fall 2015,Summer 2016,Summer 2017 - Summer 2019 )
