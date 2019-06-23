@@ -11,6 +11,15 @@ I obtained my B.Sc.(Hons) in University of Colombo School of Computing of Sri La
 
 Virtualization, Software-defined networking, Security
 
+## Recent Projects
+
++ Fault-tolerant Post-copy Live migration
+
++ Quick Eviction of Virtual Machines
+
++ SDN based Order aware Live Virtual Machine Migration
+
++ Blockchain-Based Tamper-Proof Non-Repudiable Storage for Scientific Workflow Provenance
 
 ## Recent Publications
 
@@ -22,13 +31,6 @@ Virtualization, Software-defined networking, Security
 
 + Dinuni Fernando, Hardik Bagdi, Yaohui Hu, Ping Yang, Kartik Gopalan, Charles Kamhoua, and Kevin Kwiat, Quick Eviction of Virtual Machines Through Proactive Snapshots, Refereed Poster, IEEE International Conference on Cluster Computing (CLUSTER) 2016
 
-+ Fernando, D; Kodikara, N; Keppetiyagama, C, "3D Radar – Modeling Virtual Maritime Environment For the Static Environment Perception", International Conference on Robotics, Biomimetics, Intelligent Computational Systems,ROBIONETICS 2013 .
-
-+ Fernando, D; Kodikara, N; Keppetiyagama, C,"Mathematical Model for Radar in 3D Virtual Maritime Environment to Aid Dynamic Perception ",International Journal of Simulation Systems Science & Technology,(ijssst),14(4),2013.
-
-+ Weerawarne, L.; Sayakkara, A.; Fernando, D.; Suduwella, C.; De Zoysa, K., "TikiriPower - Using TikiriDB abstraction on Smart Home systems," International Conference on Advances in ICT for Emerging Regions, (ICTer), 2012.
-
-+ Udalagama, S.; Sahabandu, L.; Samarkoon, L.; Fernando, D.; Chanthirasegaran, P.; Udana, S.;Asanga, D.; Fernando, C.; Keppetiyagama, C.; Ranasinghe, C., "A sustainable mechanism for gathering road traffic data using smart-phones," Advances in ICT for Emerging Regions (ICTer), 2012
 
 ## Awards/Honors
 + NSF-supported travel Grant Recipient for IEEE INFOCOM 2019
@@ -59,7 +61,6 @@ Virtualization, Software-defined networking, Security
 + The Chairperson of IEEE student branch of UCSC (2013-2014)
 
 + The Coordinator of IEEE student branch of UCSC (2011-2013)
-
 
 
 ---
