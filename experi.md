@@ -11,7 +11,8 @@ is_contact: true
 
 + Graduate Teaching Assistant (Spring 2016, Fall 2016, Spring 2017 )
 
-+ Professional Activities
+
+## Professional Activities
 
 + Externel Reviewer in SSCC-2016, CCGrid-2017, ICDCS-2017
 
