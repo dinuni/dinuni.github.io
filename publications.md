@@ -6,7 +6,9 @@ is_contact: true
 
 ## Publications
 
++ Dinuni Fernando, Ping Yang, Hui Lu, SDN-based Order-aware Live Migration of Virtual Machines,Accepted to IEEE International Conference on Computer Communications ( IEEE INFOCOM 2019), Beijing, China, April 2020.
 
++ Dinuni Fernando, Siddharth Kulshrestha, J. Dinal Herath, Nitin Mahadik, Yanzhe Ma, Changxin Bai, Ping Yang, Guanhua Yan, and Shiyong Lu,  SciBlock: A Blockchain-Based Tamper-Proof Non-Repudiable Storage for Scientific Workflow Provenance, Accepted to IEEE International Conference on Collaboration and Internet, 2019.
 
 + Dinuni K Fernando, Jonathan Terner, Kartik Gopalan, Ping Yang," Live Migration Ate My VM: Recovering a Virtual Machine after Failure of Post-Copy Live Migration",in Proceedings of IEEE International Conference on Computer Communications (IEEE INFOCOM 2019), Paris, France, April 2019. (Acceptance rate: 288/1464 = 19.7%)
 
