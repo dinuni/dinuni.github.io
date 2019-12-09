@@ -24,7 +24,7 @@ Virtualization, Software-defined networking, Security
 
 ## Recent Publications
 
-+ Dinuni Fernando, Ping Yang, Hui Lu, SDN-based Order-aware Live Migration of Virtual Machines,Accepted to IEEE International Conference on Computer Communications ( IEEE INFOCOM 2019), Beijing, China, April 2020.(Acceptance rate= 19.8%)
++ Dinuni Fernando, Ping Yang, Hui Lu, SDN-based Order-aware Live Migration of Virtual Machines,Accepted to IEEE International Conference on Computer Communications ( IEEE INFOCOM 2020), Beijing, China, April 2020.(Acceptance rate= 19.8%)
 
 + Dinuni Fernando, Siddharth Kulshrestha, J. Dinal Herath, Nitin Mahadik, Yanzhe Ma, Changxin Bai, Ping Yang, Guanhua Yan, and Shiyong Lu,  SciBlock: A Blockchain-Based Tamper-Proof Non-Repudiable Storage for Scientific Workflow Provenance, Accepted to IEEE International Conference on Collaboration and Internet, 2019.
 
